@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wifi Password Viewer</string>
+    <string name="main_hint_txt">Tips: long press to copy the password</string>
+    <string name="iten_name_hint">Name：</string>
+    <string name="item_pasword_hint">Password：</string>
+    <string name="copy_success">Password copy successful</string>
+    <string name="not_root_hint">Please get root privileges first ...</string>
+    <string name="not_root_hint_txt">Please ensure that the program has been root privileges, the software for open source projects, absolutely no security risks, please download from the regular channels !!!</string>
+    <string name="empty_password">No password</string>
+    <string name="github">https://github.com/EypCnn</string>
+    <string name="home">http://forum.one-teams.com</string>
+    <string name="hak">About</string>
+    <string name="dev">EypCnn</string>
+    <string name="git">Github</string>
+    <string name="website">Website</string>
+</resources>

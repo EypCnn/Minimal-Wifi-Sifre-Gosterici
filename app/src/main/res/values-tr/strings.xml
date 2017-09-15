@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wifi Şifre Gösterici</string>
+    <string name="main_hint_txt">İpucu: Şifreyi kopyalamak için basılı tutun</string>
+    <string name="iten_name_hint">İsim:</string>
+    <string name="item_pasword_hint">Şifre:</string>
+    <string name="copy_success">Şifre kopyalandı</string>
+    <string name="not_root_hint">Kök bağlantısı gerekmektedir ...</string>
+    <string name="not_root_hint_txt">Uygulamanın düzgünce çalışabilmesi için kök bağlantısı gerekmektedir. Cihazınıza hiçbir sorun vermeyecektir.</string>
+    <string name="empty_password">Şifre yok</string>
+    <string name="github">https://github.com/EypCnn</string>
+    <string name="home">http://forum.one-teams.com</string>
+    <string name="hak">Hakkında</string>
+    <string name="dev">EypCnn</string>
+    <string name="git">Github</string>
+    <string name="website">İnternet Sayfası</string>
+</resources>
