@@ -1,6 +1,6 @@
 # Wifi Şifre Gösterici
 
-![photo](https://i.hizliresim.com/Oy3nz3.png)
+![photo](https://i.hizliresim.com/4GZ2nQ.png)
 
 Rootlu Cihazınızda Daha Önceden Girmiş Olduğunuz Wifi Bağlantılarının Şifrelerini Görmenizi Sağlar.
 
